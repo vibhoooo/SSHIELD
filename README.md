@@ -7,4 +7,5 @@ It shows us the appliaction of NLP in the field of spam detection.
 
 <img width="921" alt="Screenshot 2022-12-20 at 2 27 14 PM" src="https://user-images.githubusercontent.com/96656912/208628195-37c3fd4a-7973-4c03-93ac-41bc711468c9.png">
 
-<img width="985" alt="Screenshot 2022-12-20 at 2 31 30 PM" src="https://user-images.githubusercontent.com/96656912/208628247-aeccec2d-fb51-4177-b4be-172ea257d515.png">
+<img width="1048" alt="image" src="https://user-images.githubusercontent.com/96656912/208628509-4d3a601c-4d51-4b65-a470-fa6efb338e98.png">
+
